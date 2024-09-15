@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "D:\\DataBank\\2024 Programacion\\ASPNET CORE + React Course\\C + React Course\\Bank_modern_app\\bank_modern_app.Server\\..\\bank_modern_app.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
