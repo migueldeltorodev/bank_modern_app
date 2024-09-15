@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bank_modern_app.Server", "bank_modern_app.Server\bank_modern_app.Server.csproj", "{C9CF5C4E-E7E9-4D5B-B0F5-6DC3D3FAEE52}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "bank_modern_app.client", "bank_modern_app.client\bank_modern_app.client.esproj", "{45633D5B-0B21-465B-921B-36F134DC8417}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9CF5C4E-E7E9-4D5B-B0F5-6DC3D3FAEE52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9CF5C4E-E7E9-4D5B-B0F5-6DC3D3FAEE52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9CF5C4E-E7E9-4D5B-B0F5-6DC3D3FAEE52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9CF5C4E-E7E9-4D5B-B0F5-6DC3D3FAEE52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45633D5B-0B21-465B-921B-36F134DC8417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45633D5B-0B21-465B-921B-36F134DC8417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45633D5B-0B21-465B-921B-36F134DC8417}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{45633D5B-0B21-465B-921B-36F134DC8417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45633D5B-0B21-465B-921B-36F134DC8417}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45633D5B-0B21-465B-921B-36F134DC8417}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38CFFF63-5274-43AD-BAB1-F6AF782C9B20}
+	EndGlobalSection
+EndGlobal
